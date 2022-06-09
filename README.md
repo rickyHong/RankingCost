@@ -1,4 +1,4 @@
-# Ranking Cost
+# Ranking Cost, BigSt
 
 <div align="center">
 <img width="300px" height="auto" src="./docs/figures/gridworld.png">
